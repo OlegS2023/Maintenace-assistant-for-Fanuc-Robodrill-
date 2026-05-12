@@ -111,13 +111,13 @@ Final Answer + Sources
 ## Screenshots
 
 ### Chatbot answering a maintenance question
-![Chatbot Screenshot 1](images/chatbot_1.png)
+![Chatbot Screenshot 1](images/Chatbot_1.png)
 
 ### Example: APC battery diagnostic query
-![Chatbot Screenshot 2](images/chatbot_2.png)
+![Chatbot Screenshot 2](images/Chatbot_2.png)
 
 ### Example: G76 fine boring cycle explanation
-![Chatbot Screenshot 3](images/chatbot_3.png)
+![Chatbot Screenshot 3](images/Chatbot_3.png)
 
 *(Replace the images with your actual screenshots.)*
 
