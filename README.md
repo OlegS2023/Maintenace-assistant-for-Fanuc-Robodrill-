@@ -110,14 +110,13 @@ Final Answer + Sources
 
 ## Screenshots
 
-### Chatbot answering a maintenance question
+### Chatbot answering a maintenance question 1
 ![Chatbot Screenshot 1](images/Chatbot_1.png)
 
-### Example: APC battery diagnostic query
+### Example: Explain the G83
 ![Chatbot Screenshot 2](images/Chatbot_2.png)
 
-### Example: G76 fine boring cycle explanation
-![Chatbot Screenshot 3](images/Chatbot_3.png)
+
 
 *(Replace the images with your actual screenshots.)*
 
@@ -136,8 +135,8 @@ ollama pull llama3
 
 
 ### Steps
-1. Run `01_data_engineering.ipynb`  
-2. Run `02_vector_db_and_rag.ipynb`  
+1. Run `Robodrill.ipynb`  
+2. Run `chatbot.py`  
 3. Query the assistant using `ask_the_manual()`  
 
 ---
