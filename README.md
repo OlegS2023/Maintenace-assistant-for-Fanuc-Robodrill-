@@ -118,9 +118,7 @@ Final Answer + Sources
 
 
 
-*(Replace the images with your actual screenshots.)*
 
----
 
 ## How to Run
 
